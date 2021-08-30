@@ -1,0 +1,29 @@
+{
+  "name": "passport-react-annasoos",
+  "version": "1.0.0",
+  "description": "The [ICFP](http://www.icfpconference.org/index.html) announced a competition in the subject of lowering personal contact by programming.\r The competition's goal is to make programs/applications/software that help lowering the personal contact in the time of a global virus.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecoolGlobal/passport-react-annasoos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecoolGlobal/passport-react-annasoos/issues"
+  },
+  "homepage": "https://github.com/CodecoolGlobal/passport-react-annasoos#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "git-filter-repo": "0.0.21",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7"
+  }
+}
